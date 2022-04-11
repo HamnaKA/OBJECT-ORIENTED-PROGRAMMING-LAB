@@ -26,8 +26,6 @@ public static void main(String args[])
 				item[i]=item[j];
 				item[j]=temp;
 				
-				f++;
-				
 			}
 		}
 	}
